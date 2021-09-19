@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "134862330908",
+    "project_id": "socialsitelogin-e9dac",
+    "storage_bucket": "socialsitelogin-e9dac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134862330908:android:b661b9427b17b5eda9d3d9",
+        "android_client_info": {
+          "package_name": "com.example.socialsitelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134862330908-gtaq5i8enl3o52pefosjst5j3fvj4rim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0wZZ_-0w8piJC-vOzLXZZkGhEvnml2Qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134862330908-gtaq5i8enl3o52pefosjst5j3fvj4rim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
